@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Abomination",
-      "real-name": "Emil Blonsky",
+      "realname": "Emil Blonsky",
       "publisher": "Marvel Comics",
       "alignment": "bad",
       "gender": "Male",
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "name": "Batman",
-      "real-name": "Bruce Wayne",
+      "realname": "Bruce Wayne",
       "publisher": "DC Comics",
       "alignment": "good",
       "gender": "Male",
@@ -23,7 +23,7 @@
     {
       "id": 3,
       "name": "Lex Luthor",
-      "real-name": "Lex Luthor",
+      "realname": "Lex Luthor",
       "publisher": "DC Comics",
       "alignment": "bad",
       "gender": "Male",
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "name": "Ironman",
-      "real-name": "Tony Stark",
+      "realname": "Tony Stark",
       "publisher": "Marvel Comics",
       "alignment": "good",
       "gender": "Male",
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "name": "Ant-Man",
-      "real-name": "Hank Pym",
+      "realname": "Hank Pym",
       "publisher": "Marvel Comics",
       "alignment": "good",
       "gender": "Male",
@@ -53,7 +53,7 @@
     {
       "id": 6,
       "name": "Aquaman",
-      "real-name": "Orin",
+      "realname": "Orin",
       "publisher": "DC Comics",
       "alignment": "good",
       "gender": "Male",
@@ -63,7 +63,7 @@
     {
       "id": 7,
       "name": "Atom",
-      "real-name": "Albert Pratt",
+      "realname": "Albert Pratt",
       "publisher": "DC Comics",
       "alignment": "good",
       "gender": "Male",
@@ -73,7 +73,7 @@
     {
       "id": 8,
       "name": "Bane",
-      "real-name": "N/A",
+      "realname": "N/A",
       "publisher": "DC Comics",
       "alignment": "bad",
       "gender": "Male",
@@ -83,7 +83,7 @@
     {
       "id": 9,
       "name": "Banshee",
-      "real-name": "Sean Cassidy",
+      "realname": "Sean Cassidy",
       "publisher": "Marvel Comics",
       "alignment": "good",
       "gender": "Male",
@@ -93,7 +93,7 @@
     {
       "id": 10,
       "name": "Beast",
-      "real-name": "Henry Philip McCoy",
+      "realname": "Henry Philip McCoy",
       "publisher": "Marvel Comics",
       "alignment": "good",
       "gender": "Male",
@@ -103,7 +103,7 @@
     {
       "id": 11,
       "name": "Black Adam",
-      "real-name": "Teth-Adam",
+      "realname": "Teth-Adam",
       "publisher": "DC Comics",
       "alignment": "bad",
       "gender": "Male",
@@ -113,7 +113,7 @@
     {
       "id": 12,
       "name": "Black Manta",
-      "real-name": "David",
+      "realname": "David",
       "publisher": "DC Comics",
       "alignment": "bad",
       "gender": "Male",
@@ -123,7 +123,7 @@
     {
       "id": 13,
       "name": "Captain America",
-      "real-name": "Steve Rogers",
+      "realname": "Steve Rogers",
       "publisher": "Marvel Comics",
       "alignment": "good",
       "gender": "Male",
@@ -133,7 +133,7 @@
     {
       "id": 14,
       "name": "Captain Marvel",
-      "real-name": "Carol Danvers",
+      "realname": "Carol Danvers",
       "publisher": "Marvel Comics",
       "alignment": "good",
       "gender": "Female",
@@ -143,7 +143,7 @@
     {
       "id": 15,
       "name": "Doctor Doom",
-      "real-name": "Victor von Doom",
+      "realname": "Victor von Doom",
       "publisher": "Marvel Comics",
       "alignment": "bad",
       "gender": "Male",
@@ -153,7 +153,7 @@
     {
       "id": 16,
       "name": "Elektra",
-      "real-name": "Elektra Natchios",
+      "realname": "Elektra Natchios",
       "publisher": "Marvel Comics",
       "alignment": "good",
       "gender": "Female",
@@ -163,7 +163,7 @@
     {
       "id": 17,
       "name": "Superman",
-      "real-name": "Clark Kent",
+      "realname": "Clark Kent",
       "publisher": "DC Comics",
       "alignment": "good",
       "gender": "Male",
@@ -173,7 +173,7 @@
     {
       "id": 18,
       "name": "Wonder Woman",
-      "real-name": "Diana Prince",
+      "realname": "Diana Prince",
       "publisher": "DC Comics",
       "alignment": "good",
       "gender": "Female",
@@ -183,7 +183,7 @@
     {
       "id": 19,
       "name": "Scarlet Witch",
-      "real-name": "Wanda Maximoff",
+      "realname": "Wanda Maximoff",
       "publisher": "Marvel Comics",
       "alignment": "good",
       "gender": "Female",
@@ -193,7 +193,7 @@
     {
       "id": 20,
       "name": "Jean Grey",
-      "real-name": "Jean Grey",
+      "realname": "Jean Grey",
       "publisher": "Marvel Comics",
       "alignment": "good",
       "gender": "Female",
@@ -203,7 +203,7 @@
     {
       "id": 21,
       "name": "Black Widow",
-      "real-name": "Natasha Romanoff",
+      "realname": "Natasha Romanoff",
       "publisher": "Marvel Comics",
       "alignment": "good",
       "gender": "Female",
@@ -213,7 +213,7 @@
     {
       "id": 22,
       "name": "Harley Quinn",
-      "real-name": "Harley Quinn",
+      "realname": "Harley Quinn",
       "publisher": "DC Comics",
       "alignment": "bad",
       "gender": "Female",
@@ -223,7 +223,7 @@
     {
       "id": 23,
       "name": "Poison Ivy",
-      "real-name": "Pamela Isley",
+      "realname": "Pamela Isley",
       "publisher": "DC Comics",
       "alignment": "bad",
       "gender": "Female",
@@ -233,7 +233,7 @@
     {
       "id": 24,
       "name": "Mystique",
-      "real-name": "Raven Darkholme",
+      "realname": "Raven Darkholme",
       "publisher": "Marvel Comics",
       "alignment": "bad",
       "gender": "Female",
@@ -243,7 +243,7 @@
     {
       "id": 25,
       "name": "Flash",
-      "real-name": "Barry Allen",
+      "realname": "Barry Allen",
       "publisher": "DC Comics",
       "alignment": "good",
       "gender": "Male",
@@ -253,7 +253,7 @@
     {
       "id": 26,
       "name": "Nick Fury",
-      "real-name": "Nicholas Joseph Fury",
+      "realname": "Nicholas Joseph Fury",
       "publisher": "Marvel Comics",
       "alignment": "good",
       "gender": "Male",
@@ -263,7 +263,7 @@
     {
       "id": 27,
       "name": "Magneto",
-      "real-name": "Erik Magnus Lensherr",
+      "realname": "Erik Magnus Lensherr",
       "publisher": "Marvel Comics",
       "alignment": "bad",
       "gender": "Male",
@@ -273,7 +273,7 @@
     {
       "id": 28,
       "name": "Colossus",
-      "real-name": "Piotr Nikolaievitch Rasputin",
+      "realname": "Piotr Nikolaievitch Rasputin",
       "publisher": "Marvel Comics",
       "alignment": "good",
       "gender": "Male",
@@ -283,7 +283,7 @@
     {
       "id": 29,
       "name": "Groot",
-      "real-name": "Groot",
+      "realname": "Groot",
       "publisher": "Marvel Comics",
       "alignment": "good",
       "gender": "Male",
@@ -293,7 +293,7 @@
     {
       "id": 30,
       "name": "Green Lantern",
-      "real-name": "Hal Jordan",
+      "realname": "Hal Jordan",
       "publisher": "DC Comics",
       "alignment": "good",
       "gender": "Male",
@@ -303,7 +303,7 @@
     {
       "id": 31,
       "name": "Gamora",
-      "real-name": "Gamora Zen Whoberi Ben Titan",
+      "realname": "Gamora Zen Whoberi Ben Titan",
       "publisher": "Marvel Comics",
       "alignment": "good",
       "gender": "Female",
@@ -313,7 +313,7 @@
     {
       "id": 32,
       "name": "John Constantine",
-      "real-name": "John Constantine",
+      "realname": "John Constantine",
       "publisher": "DC Comics",
       "alignment": "good",
       "gender": "Male",
@@ -323,7 +323,7 @@
     {
       "id": 33,
       "name": "Spider-Gwen",
-      "real-name": "Gwen Stacy",
+      "realname": "Gwen Stacy",
       "publisher": "Marvel Comics",
       "alignment": "good",
       "gender": "Female",
@@ -333,7 +333,7 @@
     {
       "id": 34,
       "name": "Spider-Woman",
-      "real-name": "Jessica Drew",
+      "realname": "Jessica Drew",
       "publisher": "Marvel Comics",
       "alignment": "good",
       "gender": "Female",
@@ -343,7 +343,7 @@
     {
       "id": 35,
       "name": "Catwoman",
-      "real-name": "Selina Kyle",
+      "realname": "Selina Kyle",
       "publisher": "DC Comics",
       "alignment": "bad",
       "gender": "Female",
@@ -353,7 +353,7 @@
     {
       "id": 36,
       "name": "Cheetah",
-      "real-name": "Priscilla Rich",
+      "realname": "Priscilla Rich",
       "publisher": "DC Comics",
       "alignment": "bad",
       "gender": "Female",
@@ -363,7 +363,7 @@
     {
       "id": 37,
       "name": "Ultron",
-      "real-name": "Ultron",
+      "realname": "Ultron",
       "publisher": "Marvel Comics",
       "alignment": "bad",
       "gender": "Male",
@@ -373,7 +373,7 @@
     {
       "id": 38,
       "name": "Doctor Strange",
-      "real-name": "Stephen Strange",
+      "realname": "Stephen Strange",
       "publisher": "Marvel Comics",
       "alignment": "good",
       "gender": "Male",
@@ -383,7 +383,7 @@
     {
       "id": 39,
       "name": "Nebula",
-      "real-name": "N/A",
+      "realname": "N/A",
       "publisher": "Marvel Comics",
       "alignment": "bad",
       "gender": "Female",
@@ -393,7 +393,7 @@
     {
       "id": 40,
       "name": "Hulk",
-      "real-name": "Bruce Banner",
+      "realname": "Bruce Banner",
       "publisher": "Marvel Comics",
       "alignment": "good",
       "gender": "Male",
